@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of neiderruiz/flarum-simple-share-session.** Not for installation: use [Packagist](https://packagist.org/packages/neiderruiz/flarum-simple-share-session) or the [upstream repository](https://github.com/neiderruiz/flarum-simple-share-session).
 
-**0** versions archived · Latest: [`0.0.4`](https://github.com/flarchive/neiderruiz-flarum-simple-share-session/tree/archive/v0.0.4) · Flarum: `>=1.8 <1.10`
+**4** versions archived · Latest: [`0.0.4`](https://github.com/flarchive/neiderruiz-flarum-simple-share-session/tree/archive/v0.0.4) · Flarum: `>=1.8 <1.10`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2025-02-22 | `>=1.8 <1.10` | [Browse](https://github.com/flarchive/neiderruiz-flarum-simple-share-session/tree/archive/v0.0.1) |
+| `0.0.2` | 2025-02-23 | `>=1.8 <1.10` | [Browse](https://github.com/flarchive/neiderruiz-flarum-simple-share-session/tree/archive/v0.0.2) |
+| `0.0.3` | 2025-05-05 | `>=1.8 <1.10` | [Browse](https://github.com/flarchive/neiderruiz-flarum-simple-share-session/tree/archive/v0.0.3) |
+| `0.0.4` | 2025-05-05 | `>=1.8 <1.10` | [Browse](https://github.com/flarchive/neiderruiz-flarum-simple-share-session/tree/archive/v0.0.4) |
 
 Catalog entry: [packages/neiderruiz-flarum-simple-share-session.json](https://github.com/flarchive/archive-index/blob/main/packages/neiderruiz-flarum-simple-share-session.json)
 
